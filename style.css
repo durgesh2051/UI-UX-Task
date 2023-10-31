@@ -1,0 +1,118 @@
+
+body {
+    margin: 0 auto;
+}
+.sectionome{
+    background-color: #F3F3F3;
+}
+
+.main {
+    padding-bottom: 28px;
+}
+.sol img {
+    
+    float: right;
+    padding-top: 50px;
+}
+.sor{
+    padding: 150px;
+
+}
+.sol{
+    padding-right: 150px;
+
+}
+.sor h2{
+    color: #53AC6A;
+    font-size: 40px;
+}
+.sor h1 {
+    font-family: sans-serif;
+    color: #414141;
+    font-size: 60px;
+}
+.sor p{
+    color: #414141;
+    font-size: 20px;
+}
+.sor button{
+    background-color: #53AC6A;
+    border: none;
+    padding: 10px 30px 10px 30px;
+    color: #F3F3F3;
+    border-radius: 5px;
+}
+
+.Cr{
+    text-align: center;
+    font-family: sans-serif;
+    color: #414141;
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
+    border-top: solid 1px #cecece;
+
+
+}
+.Cr span{
+    font-size: 30px;
+    font-family: sans-serif;
+    border: solid 1px #cecece;
+    padding: 10px;
+    background-color: white;
+    
+}
+.jjj {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
+    color: #414141;
+
+}
+
+.jjj img {
+    border-radius: 50%;
+  }
+
+.jone {
+    width: 100vh;
+    text-align: center;
+    border: solid 1px #cecece;
+    margin-right: 15px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px
+}
+
+.ob {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
+    color: #414141;
+
+}
+
+.bbb {
+    width: 100vh;
+    border: solid 1px #cecece;
+    margin-right: 15px;
+   
+
+   
+}
+
+.bbb button{
+    background-color: #53AC6A;
+    border: none;
+    padding: 10px 30px 10px 30px;
+    color: #F3F3F3;
+    border-radius: 5px;
+}
+
+.btb {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
